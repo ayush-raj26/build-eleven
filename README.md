@@ -1,4 +1,4 @@
-# BuildEleven [(Link)](https://github.com/Harshkumar10/hackverse)
+# BuildEleven App
 A streamlit data app that lets you create your Dream 11 cricket team based on players' past data
 
 ## Tech Stack
